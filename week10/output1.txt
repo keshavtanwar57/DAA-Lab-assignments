@@ -1,0 +1,2 @@
+No. of non-conflictin activities: 4
+List of selected activites: 1 4 7 10 

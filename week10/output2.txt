@@ -1,0 +1,2 @@
+Maximum no of tasks : 4
+Selected task numbers : 1 2 4 6 

@@ -1,0 +1,1 @@
+Min Spanning Weight is: 37
